@@ -1,0 +1,26 @@
+h1 {
+  background-color: darkslateblue;
+  color: white;
+  font-family: "Courier New";
+}
+h2 {
+  width: 60%;
+  text-align: center;
+  font-family: "Courier New";
+}
+h3 {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  text-decoration: underline;
+  font-size: 20px;
+}
+.entries {
+  width: 60%;
+  align-content: center;
+  float: left;
+  font-family: "Courier New";
+  background-color: dimgray;
+  color: white;
+  font-size: 15px;
+}
